@@ -6,19 +6,16 @@ Name of web application: PowerplantCodingChallengeAPI
 -----------------------------------------------------
 
 - Building of application
-	I built the application with Visual Studio 2019. It is a web API ASP.NET Core (.NET 5.0) project.
-	The project is separated in 3 layers:
-		- User Interface Layer (PowerplantCodingChallengeAPI).
-		  It contains the RESTFul HTTP  service.
-		- Business Logic Layer (BLL).
-		  It is a class library type project which is responsible for managing business roles.
-		- Data Access Layer (DAL).
-		  It is a class library type project which is responsible for access data. It lets us to read and write in a JSON file.
+I built the application with Visual Studio 2019. It is a web API ASP.NET Core (.NET 5.0) project.
+The project is separated in 3 layers:
+	- User Interface Layer (PowerplantCodingChallengeAPI) -> It contains the RESTFul HTTP  service.
+	- Business Logic Layer (BLL) -> It is a class library type project which is responsible for managing business roles.
+	- Data Access Layer (DAL) -> It is a class library type project which is responsible for access data. It lets us to read and write in a JSON file.
 
-	NuGet packages used:
-		-  Microsoft.AspNetCore.Http.Features 5.0.13 version --> ASP.NET Core HTTP feature interface definitions
-		- Newtonsoft.Json 13.0.1 version --> JSON framework for .NET (To serialize and deserialize data)
-		-  Swashbuckle.AspNetCore 6.2.3 version --> Swagger tools for documenting APIs built on ASP.NET Core 
+NuGet packages used:
+	-  Microsoft.AspNetCore.Http.Features 5.0.13 version --> ASP.NET Core HTTP feature interface definitions
+	- Newtonsoft.Json 13.0.1 version --> JSON framework for .NET (To serialize and deserialize data)
+	-  Swashbuckle.AspNetCore 6.2.3 version --> Swagger tools for documenting APIs built on ASP.NET Core 
 
 - Launch the API
 	- First of all insure that you have Visual Studio 2019 installed on you computer.
