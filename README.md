@@ -1,10 +1,11 @@
 
 ************ Building a REST API ********************
+-----------------------------------------------------
 
 Operating System: Windows 10
 
 Name of web application: PowerplantCodingChallengeAPI
------------------------------------------------------
+
 
 - Building of application
 I built the application with Visual Studio 2019. It is a web API ASP.NET Core (.NET 5.0) project.
