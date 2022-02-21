@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "windpark1",
+    "P": 90.0
+  },
+  {
+    "Name": "windpark2",
+    "P": 21.6
+  },
+  {
+    "Name": "gasfiredbig1",
+    "P": 460.0
+  },
+  {
+    "Name": "gasfiredbig2",
+    "P": 388.4
+  },
+  {
+    "Name": "gasfiredsomewhatsmaller",
+    "P": 0.0
+  },
+  {
+    "Name": "tj1",
+    "P": 0.0
+  }
+]
